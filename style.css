@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: #0f0f20;
+    height: 100vh;
+    width: 100%;
+}
+.box{
+    position: relative;
+    width: 20vw;
+    top: 41%;
+}
+.box img{
+    filter: invert(1);
+    width: 100%;
+}
